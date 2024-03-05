@@ -1,0 +1,22 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Micro+5&display=swap');
+body
+
+{
+    background-color: rgb(89, 107, 75);
+    text-align: center;
+}
+main{
+    background-color: rgb(255, 255, 255);
+    padding: 30px ;
+    width: 1200px;
+    margin: auto;
+    border-radius: 50px;
+    box-shadow: 20px 20px 20px;
+}
+h1{
+    background-color: brown;
+    font-family: "Micro 5", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
